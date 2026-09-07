@@ -1,4 +1,16 @@
+<div align="center">
+
 # zapasm
+
+[![Assembly](https://img.shields.io/badge/language-Assembly-525252.svg)](https://www.nasm.us/)
+[![x86_64](https://img.shields.io/badge/arch-x86__64-6F42C1.svg)](https://en.wikipedia.org/wiki/X86-64)
+[![NASM](https://img.shields.io/badge/nasm-yes-00599C.svg)](https://www.nasm.us/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Linux--x86__64-lightgrey.svg)]()
+
+<br>
+
+</div>
 
 A single-port TCP connect scanner in x86_64 assembly. Raw syscalls only —
 no libc, no `nmap`, no external tooling.
